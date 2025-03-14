@@ -20,7 +20,6 @@ def main():
     p1.MostrarPersona()
     p2 = Persona("Diego", "Tapias", 17)
     p2.MostrarPersona()
-    
 
 if __name__ == "__main__":
     main()
